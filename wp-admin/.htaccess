@@ -1,0 +1,4 @@
+order deny,allow
+deny from all
+allow from 10.12.12.0/24
+allow from 10.242.0.0/16

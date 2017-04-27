@@ -1,0 +1,1 @@
+Âï?X<?php exit; ?>a:1:{s:7:"content";s:282:"a:3:{s:44:"wonderplugin-gallery/wonderplugingallery.php";s:30:"wonderplugin_gallery_uninstall";s:45:"special-recent-posts/special-recent-posts.php";a:2:{i:0;s:22:"SpecialRecentPostsFree";i:1;s:16:"uninstall_plugin";}s:27:"wp-super-cache/wp-cache.php";s:22:"wpsupercache_uninstall";}";}

@@ -1,0 +1,10 @@
+[04-Jul-2016 22:54:27 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nemdaily/public_html/wp-config.php on line 86
+[04-Jul-2016 22:54:48 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/nemdaily/public_html/wp-config.php on line 86
+[04-Jul-2016 15:55:56 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/nemdaily/public_html/wp-includes/load.php on line 291
+[04-Jul-2016 15:55:56 UTC] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'nemdaily_caheo'@'localhost' (using password: YES) in /home/nemdaily/public_html/wp-includes/wp-db.php on line 1488
+[04-Jul-2016 15:55:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nemdaily/public_html/wp-includes/wp-db.php on line 1518
+[04-Jul-2016 15:55:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'nemdaily_caheo'@'localhost' (using password: YES) in /home/nemdaily/public_html/wp-includes/wp-db.php on line 1518
+[04-Jul-2016 15:56:30 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/nemdaily/public_html/wp-includes/load.php on line 291
+[04-Jul-2016 15:56:30 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1130): Host 'ns8923.dotvndns.vn' is not allowed to connect to this MySQL server in /home/nemdaily/public_html/wp-includes/wp-db.php on line 1488
+[04-Jul-2016 15:56:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nemdaily/public_html/wp-includes/wp-db.php on line 1518
+[04-Jul-2016 15:56:30 UTC] PHP Warning:  mysql_connect(): Host 'ns8923.dotvndns.vn' is not allowed to connect to this MySQL server in /home/nemdaily/public_html/wp-includes/wp-db.php on line 1518

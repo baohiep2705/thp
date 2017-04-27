@@ -1,0 +1,1 @@
+≈Ô?X<?php exit; ?>a:1:{s:7:"content";a:6:{s:19:"wpb_js_less_version";b:1;s:24:"vc_automapped_shortcodes";b:1;s:17:"wpb_js_use_custom";b:1;s:25:"wpb_js_not_responsive_css";b:1;s:14:"page_for_posts";b:1;s:23:"auto_core_update_failed";b:1;}}
